@@ -1,7 +1,7 @@
 import React from 'react'
 import {useState, useEffect} from 'react'
 
-const API_KEY = "603090e513884aea72aed4da783e1b8a";
+const API_KEY = "Your API";
 
 function App() {
   const [city, setCity] = useState("New York");
